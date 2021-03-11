@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lv01Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="seg_acesso">
+    <Key>
+      <PropertyRef Name="ACE_CODIGO" />
+    </Key>
+    <Property Name="ACE_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ACE_NOME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ACE_LINK" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MOD_CODIGO" Type="Int32" />
+    <NavigationProperty Name="seg_permissao" Relationship="Self.fk_acessopermissao" FromRole="seg_acesso" ToRole="seg_permissao" />
+    <NavigationProperty Name="seg_acesso_modulo" Relationship="Self.fk_acessoxmodulo" FromRole="seg_acesso" ToRole="seg_acesso_modulo" />
+  </EntityType>
+  <EntityType Name="seg_acesso_modulo">
+    <Key>
+      <PropertyRef Name="AMO_CODIGO" />
+    </Key>
+    <Property Name="AMO_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ACE_CODIGO" Type="Int32" Nullable="false" />
+    <Property Name="MOD_CODIGO" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="seg_acesso" Relationship="Self.fk_acessoxmodulo" FromRole="seg_acesso_modulo" ToRole="seg_acesso" />
+    <NavigationProperty Name="seg_modulo" Relationship="Self.fk_moduloxacesso" FromRole="seg_acesso_modulo" ToRole="seg_modulo" />
+  </EntityType>
+  <EntityType Name="seg_modulo">
+    <Key>
+      <PropertyRef Name="MOD_CODIGO" />
+    </Key>
+    <Property Name="MOD_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MOD_ICONE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MOD_NOME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MOD_DATA_CADASTRO" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="seg_acesso_modulo" Relationship="Self.fk_moduloxacesso" FromRole="seg_modulo" ToRole="seg_acesso_modulo" />
+    <NavigationProperty Name="seg_modulo_perfil" Relationship="Self.seg_modulo_perfil_ibfk_1" FromRole="seg_modulo" ToRole="seg_modulo_perfil" />
+  </EntityType>
+  <EntityType Name="seg_modulo_perfil">
+    <Key>
+      <PropertyRef Name="MPE_CODIGO" />
+    </Key>
+    <Property Name="MPE_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MOD_CODIGO" Type="Int32" Nullable="false" />
+    <Property Name="PER_CODIGO" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="seg_modulo" Relationship="Self.seg_modulo_perfil_ibfk_1" FromRole="seg_modulo_perfil" ToRole="seg_modulo" />
+    <NavigationProperty Name="seg_perfil" Relationship="Self.seg_modulo_perfil_ibfk_2" FromRole="seg_modulo_perfil" ToRole="seg_perfil" />
+  </EntityType>
+  <EntityType Name="seg_perfil">
+    <Key>
+      <PropertyRef Name="PER_CODIGO" />
+    </Key>
+    <Property Name="PER_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PER_NOME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PER_STATUS" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PER_DATA_CADASTRO" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="seg_modulo_perfil" Relationship="Self.seg_modulo_perfil_ibfk_2" FromRole="seg_perfil" ToRole="seg_modulo_perfil" />
+    <NavigationProperty Name="seg_usuario" Relationship="Self.fk_segperfil01" FromRole="seg_perfil" ToRole="seg_usuario" />
+  </EntityType>
+  <EntityType Name="seg_permissao">
+    <Key>
+      <PropertyRef Name="PER_CODIGO" />
+    </Key>
+    <Property Name="PER_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USU_CODIGO" Type="Int32" />
+    <Property Name="ACE_CODIGO" Type="Int32" />
+    <Property Name="PER_CREATE" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="PER_UPDATE" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="PER_DELETE" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="seg_acesso" Relationship="Self.fk_acessopermissao" FromRole="seg_permissao" ToRole="seg_acesso" />
+    <NavigationProperty Name="seg_usuario" Relationship="Self.fk_usuariopermissao" FromRole="seg_permissao" ToRole="seg_usuario" />
+  </EntityType>
+  <EntityType Name="seg_usuario">
+    <Key>
+      <PropertyRef Name="USU_CODIGO" />
+    </Key>
+    <Property Name="USU_CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USU_NOME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="USU_EMAIL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="USU_SENHA" Type="String" MaxLength="8" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="USU_DATA_CADASTRO" Type="DateTime" Nullable="false" />
+    <Property Name="USU_STATUS" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SET_CODIGO" Type="Int32" Nullable="false" />
+    <Property Name="PER_CODIGO" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="seg_perfil" Relationship="Self.fk_segperfil01" FromRole="seg_usuario" ToRole="seg_perfil" />
+    <NavigationProperty Name="seg_permissao" Relationship="Self.fk_usuariopermissao" FromRole="seg_usuario" ToRole="seg_permissao" />
+  </EntityType>
+  <Association Name="fk_acessopermissao">
+    <End Role="seg_acesso" Type="Self.seg_acesso" Multiplicity="0..1" />
+    <End Role="seg_permissao" Type="Self.seg_permissao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_acesso">
+        <PropertyRef Name="ACE_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_permissao">
+        <PropertyRef Name="ACE_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_acessoxmodulo">
+    <End Role="seg_acesso" Type="Self.seg_acesso" Multiplicity="1" />
+    <End Role="seg_acesso_modulo" Type="Self.seg_acesso_modulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_acesso">
+        <PropertyRef Name="ACE_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_acesso_modulo">
+        <PropertyRef Name="ACE_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_moduloxacesso">
+    <End Role="seg_modulo" Type="Self.seg_modulo" Multiplicity="1" />
+    <End Role="seg_acesso_modulo" Type="Self.seg_acesso_modulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_modulo">
+        <PropertyRef Name="MOD_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_acesso_modulo">
+        <PropertyRef Name="MOD_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="seg_modulo_perfil_ibfk_1">
+    <End Role="seg_modulo" Type="Self.seg_modulo" Multiplicity="1" />
+    <End Role="seg_modulo_perfil" Type="Self.seg_modulo_perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_modulo">
+        <PropertyRef Name="MOD_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_modulo_perfil">
+        <PropertyRef Name="MOD_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="seg_modulo_perfil_ibfk_2">
+    <End Role="seg_perfil" Type="Self.seg_perfil" Multiplicity="1" />
+    <End Role="seg_modulo_perfil" Type="Self.seg_modulo_perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_perfil">
+        <PropertyRef Name="PER_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_modulo_perfil">
+        <PropertyRef Name="PER_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_segperfil01">
+    <End Role="seg_perfil" Type="Self.seg_perfil" Multiplicity="1" />
+    <End Role="seg_usuario" Type="Self.seg_usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_perfil">
+        <PropertyRef Name="PER_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_usuario">
+        <PropertyRef Name="PER_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_usuariopermissao">
+    <End Role="seg_usuario" Type="Self.seg_usuario" Multiplicity="0..1" />
+    <End Role="seg_permissao" Type="Self.seg_permissao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="seg_usuario">
+        <PropertyRef Name="USU_CODIGO" />
+      </Principal>
+      <Dependent Role="seg_permissao">
+        <PropertyRef Name="USU_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="lv01Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="seg_acesso" EntityType="Self.seg_acesso" />
+    <EntitySet Name="seg_acesso_modulo" EntityType="Self.seg_acesso_modulo" />
+    <EntitySet Name="seg_modulo" EntityType="Self.seg_modulo" />
+    <EntitySet Name="seg_modulo_perfil" EntityType="Self.seg_modulo_perfil" />
+    <EntitySet Name="seg_perfil" EntityType="Self.seg_perfil" />
+    <EntitySet Name="seg_permissao" EntityType="Self.seg_permissao" />
+    <EntitySet Name="seg_usuario" EntityType="Self.seg_usuario" />
+    <AssociationSet Name="fk_acessopermissao" Association="Self.fk_acessopermissao">
+      <End Role="seg_acesso" EntitySet="seg_acesso" />
+      <End Role="seg_permissao" EntitySet="seg_permissao" />
+    </AssociationSet>
+    <AssociationSet Name="fk_acessoxmodulo" Association="Self.fk_acessoxmodulo">
+      <End Role="seg_acesso" EntitySet="seg_acesso" />
+      <End Role="seg_acesso_modulo" EntitySet="seg_acesso_modulo" />
+    </AssociationSet>
+    <AssociationSet Name="fk_moduloxacesso" Association="Self.fk_moduloxacesso">
+      <End Role="seg_modulo" EntitySet="seg_modulo" />
+      <End Role="seg_acesso_modulo" EntitySet="seg_acesso_modulo" />
+    </AssociationSet>
+    <AssociationSet Name="seg_modulo_perfil_ibfk_1" Association="Self.seg_modulo_perfil_ibfk_1">
+      <End Role="seg_modulo" EntitySet="seg_modulo" />
+      <End Role="seg_modulo_perfil" EntitySet="seg_modulo_perfil" />
+    </AssociationSet>
+    <AssociationSet Name="seg_modulo_perfil_ibfk_2" Association="Self.seg_modulo_perfil_ibfk_2">
+      <End Role="seg_perfil" EntitySet="seg_perfil" />
+      <End Role="seg_modulo_perfil" EntitySet="seg_modulo_perfil" />
+    </AssociationSet>
+    <AssociationSet Name="fk_segperfil01" Association="Self.fk_segperfil01">
+      <End Role="seg_perfil" EntitySet="seg_perfil" />
+      <End Role="seg_usuario" EntitySet="seg_usuario" />
+    </AssociationSet>
+    <AssociationSet Name="fk_usuariopermissao" Association="Self.fk_usuariopermissao">
+      <End Role="seg_usuario" EntitySet="seg_usuario" />
+      <End Role="seg_permissao" EntitySet="seg_permissao" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

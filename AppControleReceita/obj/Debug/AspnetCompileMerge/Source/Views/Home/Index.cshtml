@@ -1,0 +1,477 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="box">
+            <div data-widget="collapse" style="cursor:pointer">
+                <div class="box-header with-border">
+                    <i class="fa fa-search"></i>
+                    <h3 class="box-title">Pesquisa</h3>
+                    <div class="box-tools pull-right">
+                    </div>
+                </div>
+            </div>
+            <div class="box-body">
+                <form id="FrmPesquisaRegistro">
+                    <div class="form-group">
+                        <div class="col-sm-2">
+                            <label>Tipo:</label>
+                            <select id="selTipoPesquisa" name="CAT_TIPO" class="form-control" onchange="LoadCategoriasPesquisa()">
+                                <option selected="selected" value="">Todos</option>
+                                <option value="D">Débito</option>
+                                <option value="C">Crédito</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-2">
+                            <label>Categoria:</label>
+                            <select id="selCategoriaPesquisa" name="CAT_CODIGO" disabled="true" class="form-control" onchange="CarregarDataPesquisa()">
+                                <option selected="selected" value="">Todas</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-2">
+                            <label>Mês/Ano:</label>
+                            <select id="selMesAnoPesquisa" name="MesAnoPesquisa" disabled="true" class="form-control">
+                                <option selected="selected" value="">Todos</option>
+                            </select>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <label>Visualizar Anual:</label>
+                            <select id="selVisaoAnual" name="FCD_ANO" class="form-control" onchange="LoadModalAnual()">
+                            </select>
+                        </div>
+
+                        <div class="col-sm-4" style="margin-top: 20px;">
+                            <div class="input-group">
+                                <button class="btn btn-primary" id="btnPesquisa"><i class="fa fa-search"></i>&nbsp;Pesquisar</button>
+                                <a class="btn btn-primary" style="margin-left:4px" id="btnNovo" name="cmd"><i class="fa fa-file"></i>&nbsp;Registrar</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="row" id="divResultadoPesquisa" hidden>
+                    <br /><br />
+                    <hr />
+                    <div class="col-xs-12">
+                        <table id="tblPesquisa" class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Tipo</th>
+                                    <th>Categoria</th>
+                                    <th>Data</th>
+                                    <th>Valor</th>
+                                    <th style="width:110px !important">Ações</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tblBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+                <div id="divtotal" style="float: right;">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    @*==============================================================================================================================
+            formulario de cadastro
+        ==============================================================================================================================*@
+
+    <div class="modal fade" id="divFormularioCadastro" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <center><h4 class="modal-title">Registro de Débito/Crédito</h4></center>
+                </div>
+                <div class="box-body">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <form id="FrmNovoRegistro" class="form-horizontal">
+                                    <div id="divFormularioCadastroboxbody" class="box-body">
+
+                                        <div class="form-group">
+                                            <div class="col-sm-6">
+                                                <label>Tipo:</label>
+                                                <select id="selTipo" name="FCD_TIPO" class="form-control" onchange="LoadCategorias()">
+                                                    <option selected="selected" value="">Selecione</option>
+                                                    <option value="D">Débito</option>
+                                                    <option value="C">Crédito</option>
+                                                </select>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="col-sm-6">
+                                                <label>Categoria:</label>
+                                                <select id="selCategoria" name="CAT_CODIGO" disabled="true" class="form-control">
+                                                </select>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="col-sm-6">
+                                                <label>Valor:</label>
+                                                <input type="text" class="form-control" id="txtValor" name="FCD_VALORS" onKeyPress="return(moeda(this,'.',',',event))" />
+                                            </div>
+                                        </div>
+
+                                        <div class="pull-right">
+                                            <button class="btn btn-primary" id="btnSalvar"><i class="fa fa-check"></i>Salvar</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@*==============================================================================================================================
+        formulario de visão anual
+    ==============================================================================================================================*@
+
+<div class="modal fade" id="divrelVisaoAnual" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <center><h4 class="modal-title">Visualização Anual</h4></center>
+            </div>
+            <div class="box-body">
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-md-12">
+
+                            <div class="row" id="divResultadoPesquisaAnual" hidden>
+                                                                
+                                <div class="col-xs-12">
+                                    <table id="tblPesquisaAnual" class="table table-bordered table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th>Mês</th>
+                                                <th>Total Crédito</th>
+                                                <th>Total Débito</th>
+                                                <th>Total Líquido</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="tblBodyAnual"></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div id="divAnualtotal" style="float: right;">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+@section scripts{
+    <script src="~/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            CarregarDataPesquisa();
+            CarregarAnoPesquisa();
+        });
+
+        @*var lAlter = '@Html.Raw(ViewBag.pAlteracao)';
+        var lExclu = '@Html.Raw(ViewBag.pExclusao)';*@
+
+         $('#btnPesquisa').click(function (event) {
+            event.preventDefault();
+
+            var lParametros = $("#FrmPesquisaRegistro").serialize();
+            var lUrl = '@Url.Action("CarregarRegistros")';
+            var data = ServerGeneric(lParametros, lUrl);
+
+             if (data.length > 0) {
+                 $('#divResultadoPesquisa').show();
+             } else {
+                 Mensagem('Alerta', 'Nenhum Registro Encontrado');
+             }
+
+             var dataTable = $('#tblPesquisa').DataTable();
+             dataTable.destroy();
+
+             var lCorpo = "";
+             var lCalcTotalCred = 0;
+             var lCalcTotalDeb = 0;
+             var lCalcTotalLiq = 0;
+             for (var i = 0; i < data.length; i++) {
+
+
+
+                 var ltipo;
+                 if (data[i].CAT_TIPO=='D') {
+                     ltipo = "Débito";
+                     lCalcTotalDeb += data[i].FCD_VALOR;
+                 } else {
+                     ltipo = "Crédito";
+                     lCalcTotalCred += data[i].FCD_VALOR;
+                 }
+                 lCorpo += "<tr>";
+                 lCorpo += "<td>" + ltipo + "</td>";
+                 lCorpo += "<td>" + data[i].CAT_NOME + "</td>";
+                 lCorpo += "<td>" + getFormattedDate(data[i].MesAnoPesquisa) + "</td>";
+                 lCorpo += "<td>" + FormatReal(data[i].FCD_VALOR) + "</td>";
+                 lCorpo += "<td style='width:110px !important'>";
+                 lCorpo += "<a title=\"Excluir\" onclick=\"Confirma(\'" + data[i].FCD_CODIGO + "\')\"><i class='fa fa-fw fa-trash'></i></a>";
+                 lCorpo += "</td>";
+                 lCorpo += "</tr>";
+             }
+             $("#tblBody").html(lCorpo);
+             lCalcTotalLiq = lCalcTotalCred - lCalcTotalDeb;
+             //alert(lCalcTotalLiq);
+             $("#divtotal").html("<span>Total de créditos: " + FormatReal(lCalcTotalCred) + " </span> <br/>  <span>Total de Débitos: " + FormatReal(lCalcTotalDeb) + " </span> <br/> <h4>Total Líquido: " + FormatReal(lCalcTotalLiq) +"</h4>");
+
+
+             $('#tblPesquisa').DataTable({
+                 "paging": false,
+                 "lengthChange": false,
+                 "searching": false,
+                 "ordering": true,
+                 "info": true,
+                 "autoWidth": false
+             });
+
+        });
+
+        $('#btnNovo').click(function () {
+
+            $('#divNovo').show();
+            $('#hidUsuCodigo').val("0");
+            document.getElementById("FrmNovoRegistro").reset();
+
+            $('#divFormularioCadastro').modal({
+                backdrop: 'static',
+            }, 'show');
+
+            var lCorpo = "";
+            $('#selCategoria').attr('disabled', 'true');
+            lCorpo = "<option selected='selected' value=''>Selecione o Tipo</option>";
+            $("#selCategoria").html(lCorpo);
+        });
+
+        function LimparTelaCadastro() {
+            document.getElementById("FrmPesquisaRegistro").reset();
+            document.getElementById("FrmNovoRegistro").reset();
+            var lCorpo = "";
+            $('#selCategoria').attr('disabled', 'true');
+            lCorpo = "<option selected='selected' value=''>Selecione o Tipo</option>";
+            $("#selCategoria").html(lCorpo);
+        }
+
+        $('#btnSalvar').click(function (event) {
+            event.preventDefault();
+            var lParametros = $('#FrmNovoRegistro').serialize();
+            var lUrl = '@Url.Action("SalvarRegistro")';
+
+            var lRetorno = ServerGeneric(lParametros, lUrl);
+
+
+            Mensagem(lRetorno.CodMsg, lRetorno.StrMsg);
+
+            if (lRetorno.CodMsg == 'Sucesso') {
+                LimparTelaCadastro();
+                $('#btnPesquisa').click();
+            }
+        });
+
+        function Excluir(pFcdCodigo) {
+            FecharTodasMensagens();
+            lParametros = { pFcdCodigo: pFcdCodigo }
+            var lUrl = '@Url.Action("DeletarPorFcdCodigo")';
+            var lRetorno = ServerGeneric(lParametros, lUrl);
+            $('#btnPesquisa').click();
+            Mensagem(lRetorno.CodMsg, lRetorno.StrMsg);
+        }
+
+        function LoadCategorias() {
+            var lParam = document.getElementById('selTipo').value;
+            lParametros = { pParam: lParam }
+            var lUrl = '@Url.Action("LoadDropsPorTipo")';
+            var pData = ServerGeneric(lParametros, lUrl);
+
+            var lCorpo = "";
+
+            $('#selCategoria').removeAttr('disabled');
+            if (lParam == '') {
+                $('#selCategoria').attr('disabled','true');
+                lCorpo = "<option selected='selected' value=''>Selecione o Tipo</option>";
+            } else {
+
+                lCorpo = "<option selected='selected' value=''>Selecione</option>";
+                for (var i = 0; i < pData.length; i++) {
+                    lCorpo += "<option value=" + pData[i].CAT_CODIGO + ">" + pData[i].CAT_NOME + "</td>";
+                }
+            }
+            $("#selCategoria").html(lCorpo);
+        }
+
+        function LoadCategoriasPesquisa() {
+            var lParam = document.getElementById('selTipoPesquisa').value;
+            lParametros = { pParam: lParam }
+            var lUrl = '@Url.Action("LoadDropsPorTipo")';
+            var pData = ServerGeneric(lParametros, lUrl);
+
+            var lCorpo = "";
+
+            $('#selCategoriaPesquisa').removeAttr('disabled');
+            if (lParam == '') {
+                $('#selCategoriaPesquisa').attr('disabled','true');
+                lCorpo = "<option selected='selected' value=''>Todas</option>";
+            } else {
+
+                lCorpo = "<option selected='selected' value=''>Todas</option>";
+                for (var i = 0; i < pData.length; i++) {
+                    lCorpo += "<option value=" + pData[i].CAT_CODIGO + ">" + pData[i].CAT_NOME + "</td>";
+                }
+            }
+            $("#selCategoriaPesquisa").html(lCorpo);
+            CarregarDataPesquisa();
+        }
+
+        function CarregarDataPesquisa() {
+
+            var lTipoPesquisa = document.getElementById('selTipoPesquisa').value;
+            var lCategoria = document.getElementById('selCategoriaPesquisa').value;
+
+            //alert(lTipoPesquisa);
+            //alert(lCategoria);
+
+            lParametros = { pTipo: lTipoPesquisa, pCategoria: lCategoria }
+            var lUrl = '@Url.Action("LoadDropsMesAno")';
+            var pData = ServerGeneric(lParametros, lUrl);
+
+
+            //alert(pData.length);
+
+            if (pData.length == 0) {
+                var lCorpo = "";
+                lCorpo = "<option selected='selected' value=''>Não Possui registro para essa data</option>";
+                $("#selMesAnoPesquisa").html(lCorpo);
+            } else {
+                if (pData.length > 1) {
+                    var lCorpo = "";
+                    lCorpo = "<option selected='selected' value=''>Todas</option>";
+                }
+                $('#selMesAnoPesquisa').removeAttr('disabled');
+                for (var i = 0; i < pData.length; i++) {
+                    var ldata = getFormattedDate(pData[i].MesAnoPesquisa).slice(3, 10);
+                    lCorpo += "<option value=" + ldata + ">" + ldata + "</option>";
+                }
+
+                $("#selMesAnoPesquisa").html(lCorpo);
+            }
+
+        }
+
+        function LoadModalAnual() {
+            var lAnoPesquisa = document.getElementById('selVisaoAnual').value;
+
+            
+            if (lAnoPesquisa != '') {
+                //carrega modal
+                //alert(lAnoPesquisa);
+                $('#divrelVisaoAnual').modal({
+                    backdrop: 'static',
+                }, 'show');
+
+                lParametros = { pAnoPesquisa: lAnoPesquisa }
+                var lUrl = '@Url.Action("CarregarRegistrosAnual")';
+            var data = ServerGeneric(lParametros, lUrl);
+
+             if (data.length > 0) {
+                 $('#divResultadoPesquisaAnual').show();
+             } else {
+                 Mensagem('Alerta', 'Nenhum Registro Encontrado');
+             }
+
+             var dataTable = $('#tblPesquisaAnual').DataTable();
+             dataTable.destroy();
+
+             var lCorpo = "";
+             var lAnualCalcTotalCred = 0;
+             var lAnualCalcTotalDeb = 0;
+             var lAnualCalcTotalLiq = 0;
+             for (var i = 0; i < data.length; i++) {
+
+
+
+                 
+                     lAnualCalcTotalDeb += data[i].TotalDebitoAnual;
+                 
+                     lAnualCalcTotalCred += data[i].TotalCreditoAnual;
+                 
+                 lCorpo += "<tr>";
+                 lCorpo += "<td>" + data[i].AnoPesquisa + "</td>";
+                 lCorpo += "<td>" + FormatReal(data[i].TotalCreditoAnual) + "</td>";
+                 lCorpo += "<td>" + FormatReal(data[i].TotalDebitoAnual) + "</td>";
+
+                 lCorpo += "<td>" + FormatReal(parseFloat(data[i].TotalCreditoAnual) - parseFloat(data[i].TotalDebitoAnual)) + "</td>";
+                 
+                 lCorpo += "</tr>";
+             }
+             $("#tblBodyAnual").html(lCorpo);
+                lAnualCalcTotalLiq = lAnualCalcTotalCred - lAnualCalcTotalDeb;
+             
+                $("#divAnualtotal").html("<span>Total de créditos: " + FormatReal(lAnualCalcTotalCred) + " </span> <br/>  <span>Total de Débitos: " + FormatReal(lAnualCalcTotalDeb) + " </span> <br/> <h4>Total Líquido: " + FormatReal(lAnualCalcTotalLiq) +"</h4>");
+
+
+                $('#tblPesquisaAnual').DataTable({
+                 "paging": false,
+                 "lengthChange": false,
+                 "searching": false,
+                 "ordering": true,
+                 "info": true,
+                 "autoWidth": false
+             });
+
+            }
+
+
+        }
+
+        function CarregarAnoPesquisa() {
+
+            lParametros = {  }
+            var lUrl = '@Url.Action("LoadDropsAno")';
+            var pData = ServerGeneric(lParametros, lUrl);
+
+
+                if (pData.length > 0) {
+                    var lCorpo = "";
+                    lCorpo = "<option selected='selected' value=''>Selecione</option>";
+
+                for (var i = 0; i < pData.length; i++) {
+
+                    lCorpo += "<option value=" + pData[i].AnoPesquisa + ">" + pData[i].AnoPesquisa + "</option>";
+                }
+                    $("#selVisaoAnual").html(lCorpo);
+            }
+
+        }
+
+    </script>
+}

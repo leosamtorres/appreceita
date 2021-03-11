@@ -1,0 +1,223 @@
+﻿
+@using System.Configuration;
+@using System.Data;
+@using AppControleReceita.Models;
+
+@{
+    ViewBag.Versao = new Util().VersaoSistema();
+    //ViewBag.Dominio = "var lDominio = '" + ConfigurationManager.AppSettings["Dominio"].ToString() + "'";
+
+    if (Session["Sessao"] == null) //se Existir sessão redireciona para menu
+    {
+        //Response.Redirect(ConfigurationManager.AppSettings["Dominio"].ToString());
+    }
+    else // verifica se url que está sendo acessada tem acesso no objeto retornado do banco
+    {
+        ////persistir acesso(segurança)
+        //string lUrlAcessada = Request.RawUrl;
+        //string lScript = "";
+
+        //if (!new Util().VerificarAcesso(Session["Sessao"], lUrlAcessada, out lScript))
+        //{
+        //    Response.Redirect(ConfigurationManager.AppSettings["Dominio"].ToString());
+        //}
+
+        //ViewBag.AtivarMenu = lScript;
+    }
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Financeiro</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../../bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="../../bower_components/Ionicons/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="../../dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+         folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="../../dist/css/skins/_all-skins.min.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Google Font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+</head>
+<body class="hold-transition skin-blue sidebar-mini sidebar-collapse">
+    @{Html.RenderPartial("_Mensagem");}
+    <!-- Site wrapper -->
+    <div class="wrapper">
+        <header class="main-header">
+
+            <nav class="navbar navbar-static-top">
+
+            </nav>
+        </header>
+        <!-- =============================================== -->
+        <!-- Left side column. contains the sidebar -->
+        <!-- =============================================== -->
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>
+                    <small>Controle Financeiro</small>
+                </h1>
+
+            </section>
+            <!-- Main content -->
+            <section class="content">
+                @RenderBody()
+
+            </section>
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <div class="pull-right hidden-xs">
+                <b>Version</b> @ViewBag.Versao
+            </div>
+
+        </footer>
+        <!-- Control Sidebar -->
+        <!-- /.control-sidebar -->
+        <!-- Add the sidebar's background. This div must be placed
+             immediately after the control sidebar -->
+        <div class="control-sidebar-bg"></div>
+    </div>
+    <!-- ./wrapper -->
+    <!-- jQuery 3 -->
+    <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- SlimScroll -->
+    <script src="../../bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <!-- FastClick -->
+    <script src="../../bower_components/fastclick/lib/fastclick.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../../dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="../../dist/js/demo.js"></script>
+
+    @RenderSection("scripts", required: false)
+
+    <script type="text/javascript">
+
+        function onBegin() {
+            $("#divLoading").show();
+            //document.getElementById("divLoading").style.display = 'block';
+            //$('#divLoading').css("display", "block");
+        }
+        function onComplete() {
+            $("#divLoading").hide();
+            //document.getElementById("divLoading").style.display = 'none';
+            //$('#divLoading').css("display", "none");
+        }
+
+        function ServerGeneric(pParametros, pUrl) {
+
+            var lData;
+            onBegin();
+            $.ajax({
+                async: false,
+                cache: false,
+                data: pParametros,
+                type: "POST",
+                url: pUrl,
+                success: function (data) {
+                    lData = data;
+                    onComplete();
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    onComplete();
+                }
+
+            });
+            return lData;
+        }
+
+        function FecharTodasMensagens() {
+            $('#divBackgroupEscuro').hide();
+            $('#divBackgroupEscuroConfirma').hide();
+            $('#divErro').hide();
+            $('#divSucesso').hide();
+            $('#divAlerta').hide();
+            $('#divConfirma').hide();
+        }
+
+        function moeda(a, e, r, t) {
+            let n = ""
+                , h = j = 0
+                , u = tamanho2 = 0
+                , l = ajd2 = ""
+                , o = window.Event ? t.which : t.keyCode;
+            if (13 == o || 8 == o)
+                return !0;
+            if (n = String.fromCharCode(o),
+                -1 == "0123456789".indexOf(n))
+                return !1;
+            for (u = a.value.length,
+                h = 0; h < u && ("0" == a.value.charAt(h) || a.value.charAt(h) == r); h++)
+                ;
+            for (l = ""; h < u; h++)
+                -1 != "0123456789".indexOf(a.value.charAt(h)) && (l += a.value.charAt(h));
+            if (l += n,
+                0 == (u = l.length) && (a.value = ""),
+                1 == u && (a.value = "0" + r + "0" + l),
+                2 == u && (a.value = "0" + r + l),
+                u > 2) {
+                for (ajd2 = "",
+                    j = 0,
+                    h = u - 3; h >= 0; h--)
+                    3 == j && (ajd2 += e,
+                        j = 0),
+                        ajd2 += l.charAt(h),
+                        j++;
+                for (a.value = "",
+                    tamanho2 = ajd2.length,
+                    h = tamanho2 - 1; h >= 0; h--)
+                    a.value += ajd2.charAt(h);
+                a.value += r + l.substr(u - 2, u)
+            }
+            return !1
+        }
+
+        function getFormattedDate(date) {
+            if (date == null) {
+                return "";
+            }
+            else {
+                var re = /-?\d+/;
+                var m = re.exec(date);
+                var d = new Date(parseInt(m[0], 10));
+                //return dateFormat(d, 'dd/mm/yyyy');
+                //return dateFormat(new Date(d), 'dd/mm/yyyy');
+                return pad(d.getDate(), 2) + "/" + pad((d.getMonth() + 1), 2) + "/" + d.getFullYear();
+            }
+        }
+
+        function pad(str, max) {
+            str = str.toString();
+            return str.length < max ? pad("0" + str, max) : str;
+        }
+
+        function FormatReal(numero) {
+            var numero = numero.toFixed(2).split('.');
+            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+            return numero.join(',');
+        }
+    </script>
+</body>
+</html>

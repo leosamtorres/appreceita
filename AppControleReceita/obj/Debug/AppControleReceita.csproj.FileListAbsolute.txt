@@ -1,0 +1,636 @@
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\ApplicationInsights.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csc.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csc.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csi.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csi.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\csi.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.AppContext.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Console.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Claims.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\vbc.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\vbc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\vbc.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Antlr3.Runtime.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.Web.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Newtonsoft.Json.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Helpers.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Mvc.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Optimization.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\WebGrease.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Helpers.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Mvc.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Optimization.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Newtonsoft.Json.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Antlr3.Runtime.pdb
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.AI.Web.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csprojAssemblyReference.cache
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CopyComplete
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\EntityFramework.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\EntityFramework.SqlServer.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\MySql.Data.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\EntityFramework.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\Auto_Escola_Foca\bin\EntityFramework.SqlServer.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\ApplicationInsights.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csc.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csc.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csi.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csi.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\csi.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.AppContext.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Console.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Claims.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\vbc.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\vbc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\vbc.rsp
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Antlr3.Runtime.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\EntityFramework.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\EntityFramework.SqlServer.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.Web.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\MySql.Data.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Newtonsoft.Json.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Helpers.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Mvc.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Optimization.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\WebGrease.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\EntityFramework.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\EntityFramework.SqlServer.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Helpers.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Mvc.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Optimization.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Newtonsoft.Json.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Antlr3.Runtime.pdb
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.AI.Web.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csprojAssemblyReference.cache
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CopyComplete
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\AEF2019\trunk\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\ApplicationInsights.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csc.exe
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csc.rsp
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csi.exe
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csi.exe.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\csi.rsp
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.AppContext.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Console.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Claims.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\vbc.exe
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\vbc.exe.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\vbc.rsp
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Antlr3.Runtime.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\EntityFramework.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\EntityFramework.SqlServer.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.Web.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\MySql.Data.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Newtonsoft.Json.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Helpers.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Mvc.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Optimization.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\WebGrease.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\EntityFramework.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\EntityFramework.SqlServer.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Helpers.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Mvc.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Optimization.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Newtonsoft.Json.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Antlr3.Runtime.pdb
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.AI.Web.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CopyComplete
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.dll
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.pdb
+C:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csprojAssemblyReference.cache
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\ApplicationInsights.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Auto_Escola_Foca.pdb
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csc.exe
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csc.exe.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csc.rsp
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csi.exe
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csi.exe.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\csi.rsp
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.AppContext.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Console.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.Process.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.IO.Compression.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.IO.Pipes.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.AccessControl.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Claims.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Threading.Thread.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.ValueTuple.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\vbc.exe
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\vbc.exe.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\vbc.rsp
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Antlr3.Runtime.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\EntityFramework.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\EntityFramework.SqlServer.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.Web.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.ApplicationInsights.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\MySql.Data.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\MySql.Data.Entity.EF6.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Newtonsoft.Json.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Helpers.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Mvc.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Optimization.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Razor.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\WebGrease.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\EntityFramework.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\EntityFramework.SqlServer.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Helpers.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Mvc.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Optimization.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.Razor.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Newtonsoft.Json.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Antlr3.Runtime.pdb
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.AI.Web.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.Razor.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csprojAssemblyReference.cache
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CoreCompileInputs.cache
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CopyComplete
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.dll
+E:\Users\Leonardo Sampaio\Desktop\af2019\trunk\DESENV_startProj\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CoreCompileInputs.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\ApplicationInsights.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Auto_Escola_Foca.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Auto_Escola_Foca.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csc.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csc.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csc.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csi.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csi.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\csi.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.AppContext.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Console.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Threading.Thread.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\vbc.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\vbc.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\vbc.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Antlr3.Runtime.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\EntityFramework.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\EntityFramework.SqlServer.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.Web.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.ApplicationInsights.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\MySql.Data.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\MySql.Data.Entity.EF6.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Newtonsoft.Json.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Helpers.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Mvc.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Optimization.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Razor.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\WebGrease.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\EntityFramework.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\EntityFramework.SqlServer.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Helpers.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Mvc.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Optimization.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.Razor.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Web.WebPages.Razor.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Newtonsoft.Json.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Antlr3.Runtime.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.AI.Web.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csproj.CopyComplete
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\Auto_Escola_Foca\obj\Debug\Auto_Escola_Foca.csprojAssemblyReference.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\ApplicationInsights.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Auto_Escola_Foca.dll.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Auto_Escola_Foca.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Auto_Escola_Foca.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csc.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csc.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csc.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csi.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csi.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\csi.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.AppContext.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Console.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Threading.Thread.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\vbc.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\vbc.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\vbc.rsp
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Antlr3.Runtime.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\EntityFramework.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\EntityFramework.SqlServer.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.Web.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.ApplicationInsights.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\MySql.Data.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\MySql.Data.Entity.EF6.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Newtonsoft.Json.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Helpers.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Mvc.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Optimization.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Razor.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.Razor.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\WebGrease.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\EntityFramework.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\EntityFramework.SqlServer.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Helpers.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Mvc.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Optimization.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.Razor.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Web.WebPages.Razor.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Newtonsoft.Json.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Antlr3.Runtime.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.AI.Web.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\obj\Debug\AppControleReceita.csprojAssemblyReference.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\obj\Debug\AppControleReceita.csproj.CoreCompileInputs.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\obj\Debug\AppControleReceita.csproj.CopyComplete
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\obj\Debug\Auto_Escola_Foca.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\teste 1\AppControleReceita\obj\Debug\Auto_Escola_Foca.pdb

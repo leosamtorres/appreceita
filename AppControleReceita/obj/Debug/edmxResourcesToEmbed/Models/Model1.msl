@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="lv01ModelStoreContainer" CdmEntityContainer="lv01Entities">
+    <EntitySetMapping Name="seg_acesso">
+      <EntityTypeMapping TypeName="lv01Model.seg_acesso">
+        <MappingFragment StoreEntitySet="seg_acesso">
+          <ScalarProperty Name="ACE_CODIGO" ColumnName="ACE_CODIGO" />
+          <ScalarProperty Name="ACE_NOME" ColumnName="ACE_NOME" />
+          <ScalarProperty Name="ACE_LINK" ColumnName="ACE_LINK" />
+          <ScalarProperty Name="MOD_CODIGO" ColumnName="MOD_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_acesso_modulo">
+      <EntityTypeMapping TypeName="lv01Model.seg_acesso_modulo">
+        <MappingFragment StoreEntitySet="seg_acesso_modulo">
+          <ScalarProperty Name="AMO_CODIGO" ColumnName="AMO_CODIGO" />
+          <ScalarProperty Name="ACE_CODIGO" ColumnName="ACE_CODIGO" />
+          <ScalarProperty Name="MOD_CODIGO" ColumnName="MOD_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_modulo">
+      <EntityTypeMapping TypeName="lv01Model.seg_modulo">
+        <MappingFragment StoreEntitySet="seg_modulo">
+          <ScalarProperty Name="MOD_CODIGO" ColumnName="MOD_CODIGO" />
+          <ScalarProperty Name="MOD_ICONE" ColumnName="MOD_ICONE" />
+          <ScalarProperty Name="MOD_NOME" ColumnName="MOD_NOME" />
+          <ScalarProperty Name="MOD_DATA_CADASTRO" ColumnName="MOD_DATA_CADASTRO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_modulo_perfil">
+      <EntityTypeMapping TypeName="lv01Model.seg_modulo_perfil">
+        <MappingFragment StoreEntitySet="seg_modulo_perfil">
+          <ScalarProperty Name="MPE_CODIGO" ColumnName="MPE_CODIGO" />
+          <ScalarProperty Name="MOD_CODIGO" ColumnName="MOD_CODIGO" />
+          <ScalarProperty Name="PER_CODIGO" ColumnName="PER_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_perfil">
+      <EntityTypeMapping TypeName="lv01Model.seg_perfil">
+        <MappingFragment StoreEntitySet="seg_perfil">
+          <ScalarProperty Name="PER_CODIGO" ColumnName="PER_CODIGO" />
+          <ScalarProperty Name="PER_NOME" ColumnName="PER_NOME" />
+          <ScalarProperty Name="PER_STATUS" ColumnName="PER_STATUS" />
+          <ScalarProperty Name="PER_DATA_CADASTRO" ColumnName="PER_DATA_CADASTRO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_permissao">
+      <EntityTypeMapping TypeName="lv01Model.seg_permissao">
+        <MappingFragment StoreEntitySet="seg_permissao">
+          <ScalarProperty Name="PER_CODIGO" ColumnName="PER_CODIGO" />
+          <ScalarProperty Name="USU_CODIGO" ColumnName="USU_CODIGO" />
+          <ScalarProperty Name="ACE_CODIGO" ColumnName="ACE_CODIGO" />
+          <ScalarProperty Name="PER_CREATE" ColumnName="PER_CREATE" />
+          <ScalarProperty Name="PER_UPDATE" ColumnName="PER_UPDATE" />
+          <ScalarProperty Name="PER_DELETE" ColumnName="PER_DELETE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seg_usuario">
+      <EntityTypeMapping TypeName="lv01Model.seg_usuario">
+        <MappingFragment StoreEntitySet="seg_usuario">
+          <ScalarProperty Name="USU_CODIGO" ColumnName="USU_CODIGO" />
+          <ScalarProperty Name="USU_NOME" ColumnName="USU_NOME" />
+          <ScalarProperty Name="USU_EMAIL" ColumnName="USU_EMAIL" />
+          <ScalarProperty Name="USU_SENHA" ColumnName="USU_SENHA" />
+          <ScalarProperty Name="USU_DATA_CADASTRO" ColumnName="USU_DATA_CADASTRO" />
+          <ScalarProperty Name="USU_STATUS" ColumnName="USU_STATUS" />
+          <ScalarProperty Name="SET_CODIGO" ColumnName="SET_CODIGO" />
+          <ScalarProperty Name="PER_CODIGO" ColumnName="PER_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
